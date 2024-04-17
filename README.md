@@ -1,5 +1,5 @@
 
-Hi there 👋 I'm Yuxuan Zhang, a masters student from Shanghai Jiao Tong University (Sep. 2022 – Expected Mar. 2025).
+Hi there 👋 I'm Yuxuan Zhang, a master's student from Shanghai Jiao Tong University.
 
 I have a passion for exploring AIGC, particularly research related to the diffusion model. 
 
